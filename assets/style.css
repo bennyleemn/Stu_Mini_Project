@@ -1,0 +1,33 @@
+* {
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+body{
+    margin: 0%;
+    background-color: indianred;
+}
+
+
+header{
+    text-align: right;
+    position: fixed;
+    top: 5px;
+    right: 0px;
+    left: 0px;
+    background-color:indigo;
+    padding-top: 1px
+
+}
+
+li{ 
+    display: inline;
+}
+
+.nav-bar-link{
+    font: 25px;
+    padding: 10px;
+    font-style: italic;
+    color: crimson;
+}
+
+
